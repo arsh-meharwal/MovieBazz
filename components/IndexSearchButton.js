@@ -10,7 +10,6 @@ import {
 import React, { useEffect, useState } from "react";
 
 import icons from "../assets/icons/search.png";
-import { getSearchQuery } from "@/api/apiCall";
 import { router } from "expo-router";
 
 const SearchButton = () => {

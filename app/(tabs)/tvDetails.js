@@ -28,7 +28,7 @@ import {
   getTvReviews,
   getTvSeasonDetail,
   getTvVideos,
-} from "@/api/apiCall";
+} from "../api/apiCall";
 import Card from "@/components/Card";
 import LoadingScreen from "@/components/LoadingScreen";
 import YoutubeIframe from "react-native-youtube-iframe";

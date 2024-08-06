@@ -18,7 +18,7 @@ import {
   getProfileCredits,
   getProfileDetail,
   getProfileImages,
-} from "@/api/apiCall";
+} from "../api/apiCall";
 import Card from "@/components/Card";
 import LoadingScreen from "@/components/LoadingScreen";
 import { Circle, Path, Svg } from "react-native-svg";

@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import { useRouter } from "expo-router";
-import { getSearchQuery } from "@/api/apiCall";
+import { getSearchQuery } from "../api/apiCall";
 import icons from "../../assets/icons/search.png";
 
 const debounce = (func, delay) => {

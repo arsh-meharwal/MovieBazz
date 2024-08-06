@@ -1,16 +1,3 @@
-// import { View, Text, Image, ActivityIndicator } from "react-native";
-// import React from "react";
-
-// const LoadingScreen = () => {
-//   return (
-//     <View className="h-full w-full bg-gray-700 flex justify-center items-center">
-//       <Image source={logo} className="w-32 h-32 rounded-2xl" />
-//       <ActivityIndicator size="large" color="#FFFBAA" className="mt-10" />
-//     </View>
-//   );
-// };
-
-// export default LoadingScreen;
 
 import React, { useRef, useEffect, useState } from "react";
 import {

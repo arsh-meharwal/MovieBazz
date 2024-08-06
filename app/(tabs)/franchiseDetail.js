@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import React, { useEffect, useState } from "react";
 import { useLocalSearchParams } from "expo-router";
-import { getFranchiseDetail } from "@/api/apiCall";
+import { getFranchiseDetail } from "../api/apiCall";
 import LoadingScreen from "@/components/LoadingScreen";
 import Card from "@/components/Card";
 

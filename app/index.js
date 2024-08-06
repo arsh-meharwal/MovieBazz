@@ -20,7 +20,7 @@ import {
   getSearchQuery,
   getTopRatedTv,
   getTopRatedMovies,
-} from "@/api/apiCall";
+} from "./api/apiCall";
 import { useRouter } from "expo-router";
 import LoadingScreen from "@/components/LoadingScreen";
 import AsyncStorage from "@react-native-async-storage/async-storage";

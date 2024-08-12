@@ -1,6 +1,14 @@
 # Welcome to MovieBazz App 👋
 
-Delve into world of cinema. Get daily trending Movies / Shows, top rated content of all time and more
+Delve into world of cinema. Get daily trending Movies / Shows, top rated content of all time and more.
+
+It is an cross platform (android/ios) app that contains of
+
+1. List of trending movies & series
+2. Watchlist your faviourite content
+3. Get IMDB, Rotten Tomatoes and IMDB Ratings
+4. Cast, Director and Watch Provider detail
+5. Reviews and Similar Movies
 
 # Screen Recording
 

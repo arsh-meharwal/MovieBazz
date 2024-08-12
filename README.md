@@ -4,7 +4,7 @@ Delve into world of cinema. Get daily trending Movies / Shows, top rated content
 
 # Screen Recording
 
-![Screen_recording_20240806_021821(1)](https://github.com/user-attachments/assets/228e31a8-bdd5-4aec-8db2-29c1d4730fb9)
+![Screen_recording_20240806_021821(6)](https://github.com/user-attachments/assets/dacb70b4-210e-4238-9abf-8cd3d6a7bab4)
 ![Screen_recording_20240806_021821(7)](https://github.com/user-attachments/assets/f41bf0c9-5045-44a7-86bd-734e0fd4bb88)
 
 
